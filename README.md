@@ -1,3 +1,2 @@
 # Calculator
-
-https://mirrorcalculator.netlify.app
+https://glassscalculator.netlify.app/
